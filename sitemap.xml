@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kfbstore.cm/</loc>
+    <loc>https://cabrelguenang702-maker.github.io/KFB-Store/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="fr" href="https://kfbstore.cm/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://kfbstore.cm/en/" />
   </url>
-  <url><loc>https://kfbstore.cm/telephones</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://kfbstore.cm/tablettes</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://kfbstore.cm/ordinateurs</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://kfbstore.cm/televisions</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://kfbstore.cm/accessoires</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kfbstore.cm/nouveautes</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kfbstore.cm/promotions</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kfbstore.cm/collections</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://kfbstore.cm/marques</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://kfbstore.cm/guides</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://kfbstore.cm/service-client</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://kfbstore.cm/contact</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://cabrelguenang702-maker.github.io/KFB-Store/telephones</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://cabrelguenang702-maker.github.io/KFB-Store/tablettes</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https:https://cabrelguenang702-maker.github.io/KFB-Store/ordinateurs</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://cabrelguenang702-maker.github.io/KFB-Store/televisions</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://cabrelguenang702-maker.github.io/KFB-Store/accessoires</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cabrelguenang702-maker.github.io/KFB-Store/nouveautes</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cabrelguenang702-maker.github.io/KFB-Store/promotions</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cabrelguenang702-maker.github.io/KFB-Store/collections</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cabrelguenang702-maker.github.io/KFB-Store/marques</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cabrelguenang702-maker.github.io/KFB-Store/guides</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://cabrelguenang702-maker.github.io/KFB-Store/service-client</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://cabrelguenang702-maker.github.io/KFB-Store/contact</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
 </urlset>
